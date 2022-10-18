@@ -1,0 +1,5 @@
+env/
+code_python/
+query.py
+.mypy_cache
+__pycache__
